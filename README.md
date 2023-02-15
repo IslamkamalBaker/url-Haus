@@ -2,17 +2,20 @@
 URLhaus is a project operated by abuse.ch. The purpose of the project is to collect, track and share malware URLs, helping network administrators and security analysts to protect their network and customers from cyber threats
 
 # Actions 
-1- Get Hash Details
+<ul>
+ 
+ <li>Get Hash Details </li>
 This is Function To retrieve information about an Hash
-2- Query Tag information
+ <li>Query Tag information</li>
 This is Function To retrieve information about an specific Tag (for example pdf) 
-3- Get Urls Details via ID 
+ <li> Get Urls Details via ID </li>
 This is Function To To retrieve information about an URL via specific ID
-4- Query signature information
+ <li> Query signature information</li>
 This is Function To retrieve information about an specific signature (for exampl Gozi)
-5- Get Recent Payloads 
+ <li> Get Recent Payloads </li>
 This is Function To retrieve a list of recent payloads (recent payloads seen by URLhaus)
-6- Get Host Details 
+ <li> Get Host Details </li>
 This is Function To retrieve information about a specific host
-7- Get Url Details 
+ <li> Get Url Details </li>
 This is Function To retrieve information about an URL
+</ul>
