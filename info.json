@@ -24,7 +24,7 @@
         {
             "operation": "get_hash_details",
             "title": "Get Hash Details ",
-            "description": "To retrieve information about an URL",
+            "description": "To retrieve information about an Hash",
             "category": "investigation",
             "annotation": "get_hash_details",
             "output_schema": {
@@ -115,7 +115,7 @@
         {
             "operation": "get_tag",
             "title": "Query Tag information   ",
-            "description": "To retrieve information about a tag,",
+            "description": "To retrieve information about a Specific tag,",
             "category": "investigation",
             "annotation": "get_tag",
             "output_schema": {
@@ -273,7 +273,7 @@
         {
             "operation": "get_host_details",
             "title": "Get Host Details ",
-            "description": " ",
+            "description": " To retrieve information about a specific host",
             "category": "investigation",
             "annotation": "get_host_details",
             "output_schema": {
